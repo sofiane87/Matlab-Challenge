@@ -23,9 +23,9 @@ The following .m files are available :
 	``` 
 *	to run the **solving mode** : type in
 	```Matlab
-		start_game(dimension_of_the_grid,1)
+	start_game(dimension_of_the_grid,1)
 	``` 
 *	to play whack a mole /lights out yourself :
 	```Matlab
-		start_game(dimension_of_the_grid)
+	start_game(dimension_of_the_grid)
 	``` 
